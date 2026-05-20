@@ -1,0 +1,1 @@
+function lerQRCode() { console.log("Lendo bilhete..."); }
