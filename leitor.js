@@ -1,1 +1,1 @@
-function lerQRCode() { console.log("Lendo bilhete... [Timeout ativo contra travamentos]")
+function lerQRCode() { console.log("Lendo bilhete... [Timeout ativo contra travamentos]") //// Correcao de bug critico: timeout adicionado. (Recriando a parte do Hotfix, pois não apareceu no historico de comits)
