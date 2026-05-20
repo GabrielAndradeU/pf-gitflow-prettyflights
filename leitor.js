@@ -1,1 +1,1 @@
-function lerQRCode() { console.log("Lendo bilhete..."); }
+function lerQRCode() { console.log("Lendo bilhete... [Timeout ativo contra travamentos]")
