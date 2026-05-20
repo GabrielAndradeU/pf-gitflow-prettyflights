@@ -9,3 +9,7 @@
 ## Release 1.0.0
   - Criada a branch 'release/1.0.0' a partir da 'develop'.
   - Código congelado e preparado para publicação oficial.
+  ## Hotfix v1.0.1 (Bug Emergencial)
+- Identificado travamento no leitor de QR Code em produção.
+- Criada a branch 'hotfix/v1.0.1' a partir da 'main'.
+- Aplicado um sistema de timeout no arquivo leitor.js para evitar novos travamentos.
